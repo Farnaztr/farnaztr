@@ -12,7 +12,6 @@
 - 🎓 High school student majoring in Computer Science (Technical-Vocational School)  
 - 🚀 Passionate about **programming, game development, AI and IoT**  
 - ⚡ I love turning ideas into reality through code  
-- 🧠 Always learning, always building  
 
 ---
 
