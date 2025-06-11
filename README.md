@@ -34,7 +34,6 @@
 - YouTube: 'https://www.youtube.com/@here-bitzone'
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Farnaztr&layout=compact)
 
 
 <p align="center">Made by <a href="https://github.com/farnaztr">farnaztr</a></p>
