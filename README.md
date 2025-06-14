@@ -38,8 +38,7 @@
 
 <p align="center">
   <a href="https://github.com/farnaztr" target="_blank">
-    <img src="![QR CODE](https://github.com/user-attachments/assets/6aadcdff-f2ba-461a-9567-9eb7169d0d2e)
-" alt="QR Code to my GitHub" width="150"/>
+    <img src="https://github.com/farnaztr/your-repo-name/raw/main/qr-github.png" alt="QR Code to my GitHub" width="150"/>
   </a>
 </p>
 
