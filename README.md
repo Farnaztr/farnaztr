@@ -35,6 +35,7 @@
 
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farnaztr)
+  <img src="QR CODE" alt="farnaztr" />
 
 
 <p align="center">Made by <a href="https://github.com/farnaztr">farnaztr</a></p>
