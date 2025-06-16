@@ -4,24 +4,6 @@
 
 ---
 
-### 💡 About Me
-
-Self-taught developer | Tech explorer | Always building something weird or useful.  
-Not here to impress. Just here to express.
-
-> No big words. No shiny promises. Just code — raw, real, mine.
-
----
-
-### 🧭 What you'll find here:
-
-- Random projects, small or strange
-- Code I needed but couldn’t find
-- Experiments that sometimes work
-- A bit of chaos, a lot of learning
-
----
-
 ### 🛠 Languages & Tools
 
 <p align="center">
