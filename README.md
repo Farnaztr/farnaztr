@@ -16,8 +16,6 @@
 
 ---
 
-### 🔗 Connect with Me
-
 <p align="center">
   <a href="https://github.com/farnaztr">
     <img src="https://github.com/Farnaztr/farnaztr/blob/main/QR%20CODE.png" alt="QR Code to my GitHub" width="160"/>
