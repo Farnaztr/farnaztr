@@ -1,7 +1,8 @@
 <h1 align="center">it's Farnaz</h1>
 
+<p align="center"><em>I write code, chase ideas, and leave a trace.</em></p>
 <p align="center">
-  <em>I write code, chase ideas, and leave a trace.</em> <img src="https://komarev.com/ghpvc/?username=farnaztr&label=Profile%20views&color=0e75b6&style=flat" alt="farnaztr" />
+  <img src="https://komarev.com/ghpvc/?username=farnaztr&label=Profile%20views&color=0e75b6&style=flat" alt="farnaztr" />
 </p>
 
 ---
