@@ -1,17 +1,8 @@
 <h1 align="center">Hi 👋, I'm Farnaz</h1>
-<h3 align="center">Just a 16-year-old student exploring the world of programming 👩‍💻</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=farnaztr&label=Profile%20views&color=0e75b6&style=flat" alt="farnaztr" />
 </p>
-
----
-
-### 👩‍💻 About Me
-
-- 🎓 High school student 
-- 🚀 Passionate about **programming, game development, AI and IoT**  
-- ⚡ I love turning ideas into reality through code  
 
 ---
 
