@@ -16,14 +16,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farnaztr&show_icons=true&count_private=true&hide=stars&theme=radical" alt="GitHub stats" />
-</p>
-
----
-
 ### 📅 Activity
 
 <p align="center">
@@ -38,10 +30,4 @@
   <a href="https://github.com/farnaztr" aria-label="GitHub Profile">
     <img src="https://github.com/Farnaztr/farnaztr/blob/main/QR%20CODE.png" alt="GitHub QR" width="160" />
   </a>
-</p>
-
----
-
-<p align="center" style="font-style: italic; font-size: 0.9rem; max-width: 600px; margin: auto;">
-
 </p>
