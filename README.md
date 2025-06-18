@@ -16,7 +16,31 @@
 
 ---
 
-### 🔗 Access Point
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=farnaztr&show_icons=true&count_private=true&hide=stars&theme=radical" alt="GitHub stats" />
+</p>
+
+---
+
+### 📅 Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=farnaztr&theme=react-dark&area=true" alt="GitHub activity graph" />
+</p>
+
+---
+
+### 🔥 Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farnaztr&theme=dark" alt="GitHub streak stats" />
+</p>
+
+---
+
+### 🔗 GitHub Portal
 
 <p align="center">
   <a href="https://github.com/farnaztr" aria-label="GitHub Profile">
