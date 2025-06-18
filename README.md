@@ -1,4 +1,4 @@
-<h1 align="center">Farnaz</h1>
+<h1 align="center">Farnaz · ⬢</h1>
 
 <p align="center"><em>Ideas find me. Code defines me. Impact drives me.</em></p>
 
@@ -16,13 +16,6 @@
 
 ---
 
-### 📅 Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=farnaztr&theme=react-dark&area=true" alt="GitHub activity graph" />
-</p>
-
----
 
 ### 🔗 GitHub Portal
 
