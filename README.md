@@ -32,14 +32,6 @@
 
 ---
 
-### 🔥 Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farnaztr&theme=dark" alt="GitHub streak stats" />
-</p>
-
----
-
 ### 🔗 GitHub Portal
 
 <p align="center">
@@ -52,10 +44,4 @@
 
 <p align="center" style="font-style: italic; font-size: 0.9rem; max-width: 600px; margin: auto;">
 
-Not here to impress.  
-Here to build.  
-Mistakes are proof of action — fix, learn, evolve.  
-If you seek excuses, look elsewhere.  
-This is a workshop, not a showroom.  
-Code speaks louder than words.  
 </p>
