@@ -17,6 +17,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=farnaztr&theme=react-dark&area=true" alt="Activity graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=farnaztr&show_icons=true&count_private=true&theme=dark" alt="GitHub stats" />
 </p>
-
