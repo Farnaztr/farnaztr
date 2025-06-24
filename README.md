@@ -1,4 +1,4 @@
-<h1 align="center">⬢ · Farnaz · ⬢</h1>
+<h1 align="center">Farnaz👩‍💻</h1>
 
 <p align="center" style="font-weight: 600; font-size: 1.1rem; margin-top: -10px; color: #2ecc71;">
   Ideas find me. Code defines me. Impact drives me.
