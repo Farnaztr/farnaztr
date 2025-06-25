@@ -1,4 +1,3 @@
-
 <h1 align="center">Hey, I'm Farnaz 👩‍💻</h1>
 <p align="center"><i>Not perfect. Not finished. But always in development.</i></p>
 
@@ -11,7 +10,7 @@
 ## 🔗 Portfolio
 
 You can explore my projects, experiments, and creative attempts here:  
-**[farnaztr.github.io/portfolio](https://farnaztr.github.io/portfolio/)**
+**((https://farnaztr.github.io/farnaz-portfolio/))**
 
 ---
 
