@@ -10,7 +10,7 @@
 ## 🔗 Portfolio
 
 You can explore my projects, experiments, and creative attempts here:  
-🌐 [Visit my portfolio website](https://farnaztr.github.io/farnaz-portfolio/)
+🌐 [portfolio website](https://farnaztr.github.io/farnaz-portfolio/)
 
 ---
 
