@@ -7,15 +7,6 @@
 
 ---
 
-## 🌟 About Me
-
-- 🎓 I’m a junior programmer passionate about learning new technologies and solving real-world problems through code.
-- 🛠 Currently focused on improving my coding fundamentals and contributing to open-source.
-- 🌱 Always experimenting with new ideas and building tools that help me (and others) grow.
-- 🤝 Open to collaborations, feedback, or just a good chat about code.
-
----
-
 ## 💻 Languages I’m Familiar With
 
 Here are some of the programming languages I’ve been exploring, as seen in my contributions:
