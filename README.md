@@ -1,17 +1,51 @@
-<h1 align="center">I'm Farnaz 👩‍💻</h1>
-<p align="center"><i>Programmer</i></p>
+<h1 align="center">Hey — I’m Farnaz 🌱</h1>
+<p align="center"><i>Just a human learning to speak fluent code.</i></p>
+
+---
+
+### 🧠 About Me
+
+- 💻 Junior programmer still figuring it all out (and that’s okay!)
+- 🐍 I write in Python, HTML, CSS, and C#
+- 🔧 I break stuff, fix it, and call that progress
+- 🎯 Trying to build things that are actually useful
+
+---
+
+### 🔍 What I’m Exploring
+
+- Web design that’s responsive *and* pretty
+- Object-oriented programming in C#
+- Writing Python scripts that automate boring things
+- Learning by doing (and undoing)
+
+---
+
+### 🛠️ Tools I Know
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp)
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=farnaztr&label=Profile%20views&color=7ed6df&style=flat" alt="Profile views" />
+  <img src="https://github-readme-stats.vercel.app/api?username=farnaztr&show_icons=true&theme=default" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farnaztr&layout=compact&theme=default" />
 </p>
 
 ---
 
-## 🌍 Top Languages
+### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farnaztr&layout=compact&theme=default" alt="Top Languages" />
+  <img src="https://github.com/farnaztr/farnaztr/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake animation" />
 </p>
 
+---
 
-<p align="center"><i>Thanks for visiting. I'm still learning — but every day, I build a little better.</i> 🌱</p>
+<p align="center"><i>Nothing here is perfect — and that’s the point.</i></p>
