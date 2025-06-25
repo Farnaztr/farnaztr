@@ -10,7 +10,7 @@
 ## 🔗 Portfolio
 
 You can explore my projects, experiments, and creative attempts here:  
-**((https://farnaztr.github.io/farnaz-portfolio/))**
+**(https://farnaztr.github.io/farnaz-portfolio/)**
 
 ---
 
@@ -22,6 +22,6 @@ You can explore my projects, experiments, and creative attempts here:
 
 ---
 
-## 🐾 A Thought
+## A Thought
 
 > _"Not every line runs, not every file saves — but every project teaches me something I didn’t know before."_
