@@ -1,9 +1,4 @@
 <h1 align="center">I'm Farnaz 👩‍💻</h1>
-<p align="center"><i>Not perfect. Not finished. But always in development.</i></p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=farnaztr&label=Profile%20views&color=27ae60&style=flat" alt="Profile views" />
-</p>
 
 ---
 
