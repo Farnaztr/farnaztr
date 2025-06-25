@@ -27,13 +27,6 @@ I’m working primarily with **Python**, **C++**, **JavaScript**, and **HTML/CSS
 
 ---
 
-## 📫 Let's Connect
-
-- 💡 I'm always excited to connect with fellow devs, learn together, or collaborate on meaningful projects.
-- 💬 You can reach me through GitHub or contribute to any of my ongoing repositories.
-
----
-
 <p align="center">
   <i>"Code is the language I’m learning to think in."</i>
 </p>
