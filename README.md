@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Farnaz 👩‍💻</h1>
+<h1 align="center">I'm Farnaz 👩‍💻</h1>
 <p align="center"><i>Not perfect. Not finished. But always in development.</i></p>
 
 <p align="center">
