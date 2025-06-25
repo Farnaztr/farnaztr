@@ -9,13 +9,9 @@
 
 ## 💻 Languages I’m Familiar With
 
-Here are some of the programming languages I’ve been exploring, as seen in my contributions:
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farnaztr&layout=compact&langs_count=6&theme=tokyonight" alt="Top Languages" />
 </p>
-
-I’m working primarily with **Python**, **C++**, **JavaScript**, and **HTML/CSS**, with growing interest in backend technologies and web development frameworks.
 
 ---
 
