@@ -11,12 +11,6 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farnaztr&layout=compact&langs_count=6&theme=dark" alt="Top languages" />
-</p>
-
----
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=farnaztr&show_icons=true&count_private=true&theme=dark" alt="GitHub stats" />
 </p>
 
