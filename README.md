@@ -40,12 +40,4 @@
 
 ---
 
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/farnaztr/farnaztr/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake animation" />
-</p>
-
----
-
 <p align="center"><i>Nothing here is perfect — and that’s the point.</i></p>
