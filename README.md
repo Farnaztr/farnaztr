@@ -16,47 +16,11 @@
 
 ---
 
-## 🛠️ Languages and Tools
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![CSharp](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp)
-
----
-
-## 📚 Currently Exploring
-
-- 🐍 Writing reusable Python scripts  
-- 🎨 Making responsive layouts with **HTML/CSS**  
-- 🧩 Understanding C# object-oriented programming  
-- ☁️ Eventually diving into APIs and web frameworks
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farnaztr&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
-
----
-
 ## 🌍 Top Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farnaztr&layout=compact&theme=default" alt="Top Languages" />
 </p>
-
----
-
-<details>
-  <summary>✨ A little more...</summary>
-
-  - ☕ I debug with print statements and coffee  
-  - 🎧 I code best with Lofi beats or late-night silence  
-  - 💬 Ask me about the one time a missing semicolon ruined everything  
-</details>
 
 ---
 
