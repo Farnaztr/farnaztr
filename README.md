@@ -1,43 +1,28 @@
-<h1 align="center">Hey — I’m Farnaz 🌱</h1>
-<p align="center"><i>Just a human learning to speak fluent code.</i></p>
+<h1 align="center">Farnaz 👩‍💻</h1>
 
----
-
-### 🧠 About Me
-
-- 💻 Junior programmer still figuring it all out (and that’s okay!)
-- 🐍 I write in Python, HTML, CSS, and C#
-- 🔧 I break stuff, fix it, and call that progress
-- 🎯 Trying to build things that are actually useful
-
----
-
-### 🔍 What I’m Exploring
-
-- Web design that’s responsive *and* pretty
-- Object-oriented programming in C#
-- Writing Python scripts that automate boring things
-- Learning by doing (and undoing)
-
----
-
-### 🛠️ Tools I Know
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp)
-
----
-
-### 📊 GitHub Stats
+<p align="center" style="font-weight:600; font-size:1.05rem; color:#2ecc71;">
+  Ideas find me. Code defines me. Impact shapes the way forward.
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farnaztr&show_icons=true&theme=default" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farnaztr&layout=compact&theme=default" />
+  <img src="https://komarev.com/ghpvc/?username=farnaztr&label=Profile%20views&color=27ae60&style=flat" alt="Profile views" />
 </p>
 
 ---
 
-<p align="center"><i>Nothing here is perfect — and that’s the point.</i></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farnaztr&layout=compact&langs_count=6&theme=dark" alt="Top languages" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=farnaztr&show_icons=true&count_private=true&theme=dark" alt="GitHub stats" />
+</p>
+
+---
+
+<p align="center">
+  <i>I'm still early in my journey — but every bug, branch, and build gets me closer to something I'm proud of.</i><br/>
+  <strong>Stay curious. Build often. Leave good traces.</strong>
+</p>
