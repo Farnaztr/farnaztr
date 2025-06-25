@@ -1,7 +1,7 @@
 <h1 align="center">I'm Farnaz 👩‍💻</h1>
+<p align="center"><i>Ideas find me. Code defines me. Impact drives me.</i></p>
 
-
-
+---
 
 ## 🔗 Portfolio
 
