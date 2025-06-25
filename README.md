@@ -1,6 +1,6 @@
 <h1 align="center">I'm Farnaz 👩‍💻</h1>
 
----
+
 
 ## 🔗 Portfolio
 
