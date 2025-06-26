@@ -13,7 +13,7 @@ You can explore my projects, experiments, and creative attempts here:
 ## 💻 Languages I Use Most
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farnaztr&layout=compact&langs_count=8&theme=github-dark" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farnaztr&layout=compact&langs_count=8&theme=dark" alt="Top Languages" />
 </p>
 
 ---
