@@ -1,8 +1,26 @@
 <h1 align="center">I'm Farnaz 👩‍💻</h1>
 <p align="center"><i>Ideas find me. Code defines me.</i></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Author-farnaztr-red" alt="Author Badge" />
+  <img src="https://img.shields.io/badge/Author-farnaztr-800000" alt="Author Badge" />
   <img src="https://img.shields.io/github/followers/farnaztr?style=social&label=Followers" alt="GitHub Followers" />
+</p>
+
+<p align="center">
+    <a href="https://github.com/farnaztr/farnaztr">
+    <img src="https://img.shields.io/badge/Star%20My%20Repo-800000?style=for-the-badge&logo=github" alt="Star My Repo" />
+  </a>
+</p>
+
+<p align="center">
+    <a href="https://github.com/farnaztr/your-main-repo">
+    <img src="https://img.shields.io/badge/View%20My%20Repository-800000?style=for-the-badge&logo=github" alt="View My Repository" />
+  </a>
+</p>
+
+<p align="center">
+    <a href="https://github.com/farnaztr/your-code-repo">
+    <img src="https://img.shields.io/badge/Check%20My%20Code-800000?style=for-the-badge&logo=github" alt="Check My Code" />
+  </a>
 </p>
 
 ---
