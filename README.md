@@ -18,10 +18,6 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/github/last-commit/farnaztr/your-main-repo?color=green&label=last%20commit" alt="Last Commit" />
-</p>
-
-<p>
   <a href="https://github.com/farnaztr/your-portfolio-repo">
     <img src="https://img.shields.io/badge/Check%20My%20Code-blue" alt="Check My Code" />
   </a>
