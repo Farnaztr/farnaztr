@@ -11,8 +11,6 @@
     <img src="https://img.shields.io/badge/View%20My%20Repository-800020?style=for-the-badge&logo=github" alt="View My Repository" />
   </a>
 </p>
-چ
-
 
 
 ---
