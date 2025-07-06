@@ -1,6 +1,8 @@
 <h1 align="center">I'm Farnaz 👩‍💻</h1>
 <p align="center"><i>Ideas find me. Code defines me.</i></p>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Author-farnaztr-black" />
+</p>
 ---
 
 ## 🔗 Portfolio
