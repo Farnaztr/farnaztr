@@ -3,6 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Author-farnaztr-black" />
 </p>
+
 ---
 
 ## 🔗 Portfolio
