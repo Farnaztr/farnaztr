@@ -7,9 +7,12 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/View%20My%20Repository-#65000B?style=for-the-badge&logo=github" alt="View My Repository" />
-
+    <a href="https://github.com/farnaztr/your-main-repo">
+    <img src="https://github.com/Farnaztr?tab=repositories-800020?style=for-the-badge&logo=github" alt="View My Repository" />
+  </a>
 </p>
+
+
 
 ---
 
