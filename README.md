@@ -3,21 +3,8 @@
 <p>
   <img src="https://img.shields.io/badge/Author-farnaztr-green" alt="Author Badge" />
   <img src="https://img.shields.io/badge/Language-Python-blue" alt="Language Badge" />
-</p>
-
-<p>
   <img src="https://img.shields.io/github/followers/farnaztr?style=social&label=Followers" alt="GitHub Followers" />
-</p>
-
-<p>
   <img src="https://img.shields.io/github/stars/farnaztr/farnaztr?style=social&label=Star%20My%20Repos" alt="Star My Repos" />
-</p>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=farnaztr&label=Profile%20Views&color=007EC6&style=flat" alt="Profile Views" />
-</p>
-
-<p>
   <a href="https://github.com/farnaztr/your-portfolio-repo">
     <img src="https://img.shields.io/badge/Check%20My%20Code-blue" alt="Check My Code" />
   </a>
