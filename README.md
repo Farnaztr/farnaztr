@@ -7,14 +7,6 @@
 </p>
 
 
-
----
-
-## 🔗 Portfolio
-
-You can explore my projects, experiments, and creative attempts here:  
-🌐 [portfolio website](https://farnaztr.github.io/farnaz-portfolio/)
-
 ---
 
 ## 💻 Languages I Use Most
