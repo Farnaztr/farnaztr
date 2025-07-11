@@ -9,13 +9,14 @@
 
 ---
 
-## -Languages I Use Most
+## -My Top Programming Languages
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farnaztr&layout=compact&theme=vision-friendly-dark&langs_count=10" alt="Top Languages" />
   </a>
 </p>
+
 ---
 
 ## A Thought
