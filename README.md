@@ -12,7 +12,7 @@
 ## -Languages I Use Most
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farnaztr&layout=compact&langs_count=8&theme=dark&v=2" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farnaztr&layout=compact&langs_count=8&theme=dark" />
 </p>
 
 ---
