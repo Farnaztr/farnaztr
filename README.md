@@ -1,4 +1,4 @@
-<h1 align="center">-I'm Farnaz 👩‍💻</h1>
+<h1 align="center">-I'm Farnaz 👩‍💻-</h1>
 <p align="center"><i>Ideas find me. Code defines me.</i></p>
 
 <p align="center">
@@ -19,6 +19,6 @@
 
 ---
 
-## A Thought
+## -A Thought
 
 > _"Not every line runs, not every file saves — but every project teaches me something I didn’t know before."_
