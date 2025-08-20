@@ -9,7 +9,7 @@
 
 ---
 
-## -My Top Programming Languages
+## -Programming Languages
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -22,3 +22,7 @@
 ## -A Thought
 
 > _"Not every line runs, not every file saves — but every project teaches me something I didn’t know before."_
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec4,100:7873f5&height=120&section=footer" />
+</p>
+
