@@ -2,8 +2,8 @@
 <p align="center"><i>Ideas find me. Code defines me.</i></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Author-farnaztr-800000" alt="Author Badge" />
-<img src="https://img.shields.io/github/followers/farnaztr?style=social&label=Followers&cacheSeconds=300" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/Author-Farnaztr-800000" alt="Author Badge" />
+<img src="https://img.shields.io/github/followers/farnaztr?style=social&label=Followers" alt="GitHub Followers" />
 </p>
 
 
