@@ -1,28 +1,31 @@
-<h1 align="center" >-I'm Farnaz 👩‍💻-</h1>
+<h1 align="center">- I'm Farnaz 👩‍💻 -</h1>
 <p align="center"><i>Ideas find me. Code defines me.</i></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Author-Farnaztr-pink" alt="Author Badge" />
-<img src="https://img.shields.io/github/followers/farnaztr?style=social&label=Followers" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/Author-Farnaztr-pink" alt="Author Badge" />
+  <img src="https://img.shields.io/github/followers/farnaztr?style=social&label=Followers" alt="GitHub Followers" />
+</p>
+
+---
+
+## - Languages & Tools
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="70" height="70" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="70" height="70" alt="C#"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="70" height="70" alt="C++"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="70" height="70" alt="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="70" height="70" alt="CSS3"/>
 </p>
 
 
 ---
 
-## -Programming Languages
+## - A Thought
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farnaztr&layout=compact&theme=vision-friendly-dark&langs_count=10&cacheSeconds=300" alt="Top Languages" />
-  </a>
+  <i>"Not every line runs, not every file saves — but every project teaches me something I didn’t know before."</i>
 </p>
 
----
-
-## -A Thought
-
-> _"Not every line runs, not every file saves — but every project teaches me something I didn’t know before."_
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec4,100:7873f5&height=120&section=footer" />
 </p>
-
